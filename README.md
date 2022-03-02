@@ -3,3 +3,8 @@
 We are learning programming, why not doing by creating a super financially successfully NFT art collection..
 
 Here we are :)
+
+## Authors
+
+- Programming: FUNZARP
+- Some help: Alberto Bueno
